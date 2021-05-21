@@ -26,6 +26,11 @@ The main functions of the application are:
 * Associate recorded data with a Player/User profile and store this data in a remote database.
 * Retrieve any previously stored data from the remote database.
 * Playback of recorded or loaded data and visualise in the same way as the live streamed data.
+* Click below to view the demonstration recording (youtube link)
+
+
+[![Recorded Demo Aailable Here](https://img.youtube.com/vi/umR1cIud7es/0.jpg)](https://www.youtube.com/watch?v=umR1cIud7es)
+
 
 ### List of related repositories:
 
